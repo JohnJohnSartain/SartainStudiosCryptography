@@ -1,0 +1,21 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <Version>1.0.0</Version>
+    <PackageId>SartainStudios.Cryptography</PackageId>
+    <Authors>John Sartain</Authors>
+    <Company>Sartain Studios</Company>
+    <Product>Sartain Studios Cryptography</Product>
+    <Description>Simple hashing library</Description>
+    <Copyright>Sartain Studios</Copyright>
+    <PackageProjectUrl>https://github.com/jhnsartain3/Cryptography</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/jhnsartain3/Cryptography</RepositoryUrl>
+    <RepositoryType>Nuget Package</RepositoryType>
+    <PackageTags>Cryptography</PackageTags>
+    <RootNamespace>SartainStudios.Cryptography</RootNamespace>
+    <AssemblyName>SartainStudios.Cryptography</AssemblyName>
+  </PropertyGroup>
+
+</Project>
